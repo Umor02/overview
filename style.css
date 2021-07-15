@@ -1,0 +1,20 @@
+h1{
+    color: green;
+    text-align: center;
+    font-size: 30px;
+}
+.class{
+    background-color: white;
+    font-size: 20px;
+}
+.me{
+    font-size: 25px;
+    text-align: center;
+    color: red;
+}
+.me:hover{
+    background-color: green;
+    color: blue;
+    font-size: 22px;
+    
+}
